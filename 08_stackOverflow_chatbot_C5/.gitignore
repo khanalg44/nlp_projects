@@ -1,5 +1,5 @@
-.gitignore
-res
-pickle_files
+*gitignore*
+*pickle_files*
 *orig
 datasets
+res
