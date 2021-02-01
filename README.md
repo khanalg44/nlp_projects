@@ -18,6 +18,7 @@
   - Examples of Counter, Sort, AST
   - Bag of Words implementation from scratch
   - TF-IDF implementation from scratch
+  - Multilabel Classification  NLP
 
 **03. Disaster Tweets Kaggle**
   - Disaster Tweets classifications from Kaggle competition
