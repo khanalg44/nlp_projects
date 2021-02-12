@@ -57,6 +57,18 @@
   - Deep Learning analysis on NLP
   - LSTM
 
+**11 NLP with Keras Basics**
+  - Deep NN framework on Keras on IMDB dataset
+  - Binary vs Multilabel classification
+  - Data generation for NLP models.
+
+**12 Twitter Sentiment Analysis TensorFlow**
+  - Preprocessing of twitter data for over a Million twits.
+  - LSTM, CONV1D, models
+  - Prediction for a new tweet
+
+
+
 ## References
 * [Coursera Git resource](https://github.com/hse-aml/natural-language-processing)[.](https://github.com/nsanghi/HSE-NLP-Coursera)[.](https://github.com/ijelliti/Deeplearning.ai-Natural-Language-Processing-Specialization)
 * [Stanford NLP website](http://web.stanford.edu/class/cs224n/)
