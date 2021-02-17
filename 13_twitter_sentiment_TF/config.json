@@ -1,0 +1,4 @@
+{
+    "MAX_WORDS": 3000,
+    "MAX_SEQ_LEN": 30
+}
