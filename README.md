@@ -1,6 +1,13 @@
-# Natural Language Processing
+# Natural Language Processing : Projects
 
-## Projects with NLP
+**00. NLP Basics SKlearn and Keras**
+  - NLTK: Tokenization, Stemming,
+  - SKlearn: LabelEncoder, TFiDF
+  - Bag of Words from scratch
+  - Abstract Syntax Trees (AST)
+  - Sparce matrix from Scipy
+  - Counter, MultiLabelBinarizer
+  - Keras: Tokenizer, Texts_to_sequences, Texts_to_matrix, pad_sequences
 
 **01. Twitter Sentiment**
   - Usage of NLTK-spacy 
