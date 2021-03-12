@@ -2,71 +2,76 @@
 
 ## Projects with NLP
 
-**00. Twitter Sentiment**
+**01. Twitter Sentiment**
   - Usage of NLTK-spacy 
   - Named Entity Recognition, Vocabulary and phrase matching with Spacy
   - Wordcloud and sentiment analysis using nltk
   - Formating a pdf file
 
-**01. News Text Classification**
+**02. News Text Classification**
   - Text Classification (from Kaggle) using LR model in Sklearn
   - Mean Reciprocal Rank (MRR) implimentation from scratch
   - Text Classification using Random Forest model in Sklearn
 
-**02. Stackexchange Text Classifier [c1]**
+**03. Stackexchange Text Classifier [c1]**
   - Examples of Tokenization, Stemming, TF-IDF from nltk 
   - Examples of Counter, Sort, AST
   - Bag of Words implementation from scratch
   - TF-IDF implementation from scratch
   - Multilabel Classification  NLP
 
-**03. Disaster Tweets Kaggle**
+**04. Disaster Tweets Kaggle**
   - Disaster Tweets classifications from Kaggle competition
   - Uses Logistic Regression, Random Forest from sklearn
 
-**04. Naive Bayes Spam Classifier [u1]**
+**05. Naive Bayes Spam Classifier [u1]**
   - Naive Bayes Classifier for Spam classification
   - Bayes Theorem implementation from scratch
   - Naive Bayes implementation from scratch
   - Bag of words implementation
 
-**05. Latent Dirichlet Allocation for news classification [u3]**
+**06. Latent Dirichlet Allocation for news classification [u3]**
   - News Classification with abcnews data using LDA from nltk
   - Examples of Lemmatizer, Stemmer, Bag of Words, TFIDF from nltk
 
-**06. Sentiment Analysis using Logistic Regression**
+**07. Sentiment Analysis using Logistic Regression**
   - Sentiment analysis with Twitter data using Logistic Regression
   - Implementation of Logistic Regression from scratch
 
-**07. Topic Modeling LDA [ud1]**
+**08. Topic Modeling LDA [ud1]**
   - Documents Similarity with BBC sports data using TF-IDF model from nltk
   - Topic Modeling using LDA from nltk
   - Similarity with BBC sports data using Word2Vec model
   - LDA, TFIDF, Word2Vec, Bag of Words from nltk
 
-**08 Building a Chat Bot for StackOverflow [c5]**
+**09 Building a Chat Bot for StackOverflow [c5]**
   - Build a chatbot for StackOverflow questions.
   - Dataset contains the questions and tags for the SO questions.
   - Used a simple LR model.
 
-**09 Notes on NLP**
+**10 Notes on NLP**
   - Notes on NLP, Top Hits ...
 
-**10 Next Word Prediction using LSTM**
+**11 Next Word Prediction using LSTM**
   - Next word prediction on a book text
   - Deep Learning analysis on NLP
   - LSTM
 
-**11 NLP with Keras Basics**
+**12 NLP with Keras Basics**
   - Deep NN framework on Keras on IMDB dataset
   - Binary vs Multilabel classification
   - Data generation for NLP models.
 
-**12 Twitter Sentiment Analysis TensorFlow**
+**13 Twitter Sentiment Analysis TensorFlow**
   - Preprocessing of twitter data for over a Million twits.
   - LSTM, CONV1D, models
   - Prediction for a new tweet
 
+**14 BBC News Classification**
+  - NLP text classification using Logistic Regression, XGBoost
+  - Neural Net, Dense, LSTM, 
+  - Bag of Words (BOW) method
+  - TFIDF method
 
 
 ## References
