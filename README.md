@@ -44,30 +44,30 @@
   - Similarity with BBC sports data using Word2Vec model
   - LDA, TFIDF, Word2Vec, Bag of Words from nltk
 
-**09 Building a Chat Bot for StackOverflow [c5]**
+**09. Building a Chat Bot for StackOverflow [c5]**
   - Build a chatbot for StackOverflow questions.
   - Dataset contains the questions and tags for the SO questions.
   - Used a simple LR model.
 
-**10 Notes on NLP**
+**10. Notes on NLP**
   - Notes on NLP, Top Hits ...
 
-**11 Next Word Prediction using LSTM**
+**11. Next Word Prediction using LSTM**
   - Next word prediction on a book text
   - Deep Learning analysis on NLP
   - LSTM
 
-**12 NLP with Keras Basics**
+**12. NLP with Keras Basics**
   - Deep NN framework on Keras on IMDB dataset
   - Binary vs Multilabel classification
   - Data generation for NLP models.
 
-**13 Twitter Sentiment Analysis TensorFlow**
+**13. Twitter Sentiment Analysis TensorFlow**
   - Preprocessing of twitter data for over a Million twits.
   - LSTM, CONV1D, models
   - Prediction for a new tweet
 
-**14 BBC News Classification**
+**14. BBC News Classification**
   - NLP text classification using Logistic Regression, XGBoost
   - Neural Net, Dense, LSTM, 
   - Bag of Words (BOW) method
