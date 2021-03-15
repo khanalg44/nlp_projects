@@ -16,5 +16,5 @@
 
 ## Results
 
-![results](./conf_matrix.png)
+![results](./results.png)
 
