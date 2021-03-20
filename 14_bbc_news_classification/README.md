@@ -18,3 +18,4 @@
 
 ![results](./results.png)
 
+I also performed Linear Discriminant Analysis (LDA) for this data which works better for linearly separable data and and expected it's accuracy was only around 87% compared to ~97% for other methods.
